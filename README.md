@@ -5,6 +5,8 @@ _Administración De Servidores Proyecto Final_
 
 **2.Brenda Alexandra Hiches Alcántara | 18-SIST-1-019**
 
+**3.Rodrigo Sanchez De León | 18-SISM-1-076**
+
 _Universidad Dominicana O&M_
 
 _Sección: 0908_
