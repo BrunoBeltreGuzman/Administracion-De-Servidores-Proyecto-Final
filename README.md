@@ -29,8 +29,6 @@ https://www.php.net/
 
 # Instalación:
 
-Descargar:
-
 1. [Descargar.zip](https://codeload.github.com/BrunoBeltreGuzman/Administracion-De-Servidores-Proyecto-Final/zip/refs/heads/master)
 
 3. Ejecuar Scripts MySQL
