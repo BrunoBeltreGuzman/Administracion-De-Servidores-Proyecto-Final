@@ -12,18 +12,27 @@ _Universidad Dominicana O&M_
 _Sección: 0908_
 
 # Requerimientos:
-Servidor Web con PHP
 
-- Apache
-https://httpd.apache.org/download.cgi
+**- Servidor Web:**
 
-- XAMPP
-https://www.apachefriends.org/es/index.html
+Apache: https://httpd.apache.org/download.cgi
+
+XAMPP: https://www.apachefriends.org/es/index.html
+
+**- Servidor MySQL:**
+
+https://www.mysql.com/
+
+**- PHP:**
+
+https://www.php.net/
 
 # Instalación:
 
 Descargar:
 
 1. [Descargar.zip](https://codeload.github.com/BrunoBeltreGuzman/Administracion-De-Servidores-Proyecto-Final/zip/refs/heads/master)
+
+3. Ejecuar Scripts MySQL
 
 2. Extraer en la raíz de su servidor Web
