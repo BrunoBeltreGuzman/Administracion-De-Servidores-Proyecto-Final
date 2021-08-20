@@ -19,14 +19,6 @@ Apache: https://httpd.apache.org/download.cgi
 
 XAMPP: https://www.apachefriends.org/es/index.html
 
-**- Servidor MySQL:**
-
-https://www.mysql.com/
-
-**- PHP:**
-
-https://www.php.net/
-
 # Instalación:
 
 1. [Descargar.zip](https://codeload.github.com/BrunoBeltreGuzman/Administracion-De-Servidores-Proyecto-Final/zip/refs/heads/master)
