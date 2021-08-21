@@ -23,6 +23,4 @@ XAMPP: https://www.apachefriends.org/es/index.html
 
 1. [Descargar.zip](https://codeload.github.com/BrunoBeltreGuzman/Administracion-De-Servidores-Proyecto-Final/zip/refs/heads/master)
 
-3. Ejecuar Scripts MySQL
-
 2. Extraer en la raíz de su servidor Web
